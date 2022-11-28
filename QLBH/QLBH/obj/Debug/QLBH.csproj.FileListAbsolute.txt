@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\QLBH\QLBH\obj\Debug\QLBH.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\QLBH\QLBH\obj\Debug\QLBH.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\QLBH\QLBH\obj\Debug\QLBH.frmLogin.resources
+C:\Users\User\source\repos\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+C:\Users\User\source\repos\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+C:\Users\User\source\repos\QLBH\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QLBH\QLBH\bin\Debug\QLBH.exe.config
+C:\Users\User\source\repos\QLBH\QLBH\bin\Debug\QLBH.exe
+C:\Users\User\source\repos\QLBH\QLBH\bin\Debug\QLBH.pdb
+C:\Users\User\source\repos\QLBH\QLBH\obj\Debug\QLBH.exe
+C:\Users\User\source\repos\QLBH\QLBH\obj\Debug\QLBH.pdb
+C:\Users\User\source\repos\QLBH\QLBH\obj\Debug\QLBH.frmTrangChu.resources
+C:\Users\User\source\repos\QLBH\QLBH\obj\Debug\QLBH.frmMuaNguyenVatLieu.resources
+C:\Users\User\source\repos\QLBH\QLBH\obj\Debug\QLBH.frmBanHang.resources
+C:\Users\User\source\repos\QLBH\QLBH\obj\Debug\QLBH.frmQuanLyDoanhThu.resources
+C:\Users\User\source\repos\QLBH\QLBH\obj\Debug\QLBH.frmQuanLyKho.resources
+C:\Users\User\source\repos\QLBH\QLBH\obj\Debug\QLBH.frmNhaCungCap.resources
